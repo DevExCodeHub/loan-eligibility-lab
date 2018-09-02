@@ -11,7 +11,7 @@
 1. Scrol down the page and click on **(+) New project icon**.
 2. Name your project 'Predict loan eligibility'.
 3. Click **Create**.
-4. In your project page, nagivate to the Assests tab, drag the [data set]() file and drop it in the Load sidebar.
+4. In your project page, nagivate to the Assests tab, drag the [data set](https://github.com/DevExCodeHub/Loan_eligibility_lab/blob/master/Data/train.csv) file and drop it in the Load sidebar.
 
 ## Create SPSS Model
 1. On the same Assets page, scroll down to the Modeler flows.
