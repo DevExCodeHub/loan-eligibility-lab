@@ -1,7 +1,7 @@
 # Predict Loan Eligibility with SPSS Modeler in Watson Studio
 
 ## Login to IBM Cloud and Create Watson Studio Service
-1. Register in [IBM Cloud](https://ibm.biz/).
+1. Register in [IBM Cloud](https://ibm.biz/BdYmuL).
 2. Go to **Catalog**.
 3. Search for `watson studio`.
 4. Click on the service and then **Create**.
