@@ -33,3 +33,4 @@
 <img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349655-8d104b80-b5ba-11e8-8f6c-4fd644a12ba8.png">
 
 5. Make sure each node is linked to the previous node then run the model.
+<img width="485" alt="ff" src="https://user-images.githubusercontent.com/37486654/45350098-b4b3e380-b5bb-11e8-97a5-0b815e4205e4.PNG">
