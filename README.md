@@ -21,16 +21,16 @@
 
 ## Build The Model
 1. Import the Data by dragging **Data Asset** node from Import palette.
-<img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45348582-bed3e300-b5b7-11e8-9884-d0aa2982a318.PNG">
+<p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45348582-bed3e300-b5b7-11e8-9884-d0aa2982a318.PNG">
 
 2. Configures  variables  type using **Type** node from Field Operations palette.
-<img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349630-7d910280-b5ba-11e8-8465-b13448bfcaf6.png">
+<p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349630-7d910280-b5ba-11e8-8465-b13448bfcaf6.png">
 
 3. Split  the data for training with 80% and testing with 20% sets using **Partition** node from Field Operations palette.
-<img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349644-87b30100-b5ba-11e8-917f-57205a0cf9e9.png">
+<p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349644-87b30100-b5ba-11e8-917f-57205a0cf9e9.png">
 
 4. Drag the Bayes Net node from the **Modeling** Palette.
-<img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349655-8d104b80-b5ba-11e8-8f6c-4fd644a12ba8.png">
+<p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349655-8d104b80-b5ba-11e8-8f6c-4fd644a12ba8.png">
 
 5. Make sure each node is linked to the previous node then run the model.
-<img width="485" alt="ff" src="https://user-images.githubusercontent.com/37486654/45350098-b4b3e380-b5bb-11e8-97a5-0b815e4205e4.PNG">
+<p align="center"><img width="485" alt="ff" src="https://user-images.githubusercontent.com/37486654/45350098-b4b3e380-b5bb-11e8-97a5-0b815e4205e4.PNG">
