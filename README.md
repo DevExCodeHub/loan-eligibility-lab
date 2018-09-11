@@ -21,6 +21,7 @@
 
 ## Build The Model
 1. Import the Data by dragging **Data Asset** node from Import palette.
+https://github.com/DevExCodeHub/loan-eligibility-lab/issues/1#issue-358951624
 2. Configures  variables  type using **Type** node from Field Operations palette.
 3. Split  the data for training with 80% and testing with 20% sets using **Partition** node from Field Operations palette.
 4. Drag the Bayes Net node from the **Modeling** Palette.
