@@ -19,3 +19,9 @@
 3. Under the 'New' tab, name your modeler 'Predictive model'.
 4. Click **Create**.
 
+## Build The Model
+1. Import the Data by dragging Data Asset node from Import nodes palette.
+2. Configures  variables  type using Types node from Field Operations palette.
+3. Split  the data for training with 80% and testing with 20% sets using Partition node from Field Operations palette.
+4. Drag the Bayes Net node from the Modeling Palette.
+5. Make sure each node is linked to the previous node then run the model.
