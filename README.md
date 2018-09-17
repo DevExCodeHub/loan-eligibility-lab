@@ -32,7 +32,7 @@
 2. Configures  variables  type using **Type** node from Field Operations palette.
 <p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349630-7d910280-b5ba-11e8-8465-b13448bfcaf6.png">
   
- >Double click the node or right click to open it. Choose **Configure Types** to read the metadata then change the `Role` drop down menu of **[Loan_Status]** from input to output. Also change the Role drop down menu of **[LoanID]** from none to Record ID. 
+ >Double click the node or right click to open it. Choose **Configure Types** to read the metadata then change the `Role` drop down menu of **[Loan_Status]** from input to output. Also change the `Role` drop down menu of **[LoanID]** from none to Record ID. 
 
 <p align="center"><img width="300" alt="11" src="https://user-images.githubusercontent.com/37486654/45630472-6a41d380-baa1-11e8-9699-915869462ffd.png">
   
