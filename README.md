@@ -36,7 +36,7 @@
 
 <p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45630472-6a41d380-baa1-11e8-9699-915869462ffd.png">
   
-<p align="center"><img width="200" alt="11" src="https://user-images.githubusercontent.com/37486654/45630475-6ada6a00-baa1-11e8-8670-cf8ad84e71cc.png"> 
+<p align="center"><img width="300" alt="12" src="https://user-images.githubusercontent.com/37486654/45630475-6ada6a00-baa1-11e8-8670-cf8ad84e71cc.png"> 
 
 3. Split  the data for training with 80% and testing with 20% sets using **Partition** node from Field Operations palette.
 <p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45349644-87b30100-b5ba-11e8-917f-57205a0cf9e9.png">
@@ -52,4 +52,6 @@
 5. Make sure each node is linked to the previous node then run the model.
 <p align="center"><img width="485" alt="ff" src="https://user-images.githubusercontent.com/37486654/45350098-b4b3e380-b5bb-11e8-97a5-0b815e4205e4.PNG">
   
-<p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45630477-6b730080-baa1-11e8-841d-aad942e74f00.png>
+<p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45630477-6b730080-baa1-11e8-841d-aad942e74f00.png">
+
+
