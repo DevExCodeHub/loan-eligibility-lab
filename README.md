@@ -25,7 +25,7 @@
   
  >Double click the node or right click to open it. Choose **Change Data Asset** to select the data asset that was uploaded to the Watson Studio then press OK and Save.
  
- <p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45630471-6a41d380-baa1-11e8-87cc-c5e3d73696d8.png">
+ <p align="center"><img width="200" alt="11" src="https://user-images.githubusercontent.com/37486654/45630471-6a41d380-baa1-11e8-87cc-c5e3d73696d8.png">
   
 
 
@@ -34,7 +34,7 @@
   
  >Double click the node or right click to open it. Choose **Configure Types** to read the metadata then change the Role drop down menu of **[Loan_Status]** from input to output. Also change the Role drop down menu of **[LoanID]** from none to Record ID. 
 
-<p align="center"><img width="149" alt="11" src="https://user-images.githubusercontent.com/37486654/45630472-6a41d380-baa1-11e8-9699-915869462ffd.png">
+<p align="center"><img width="200" alt="11" src="https://user-images.githubusercontent.com/37486654/45630472-6a41d380-baa1-11e8-9699-915869462ffd.png">
   
 <p align="center"><img width="300" alt="12" src="https://user-images.githubusercontent.com/37486654/45630475-6ada6a00-baa1-11e8-8670-cf8ad84e71cc.png"> 
 
