@@ -51,7 +51,9 @@
 
 5. Make sure each node is linked to the previous node then run the model.
 <p align="center"><img width="485" alt="ff" src="https://user-images.githubusercontent.com/37486654/45350098-b4b3e380-b5bb-11e8-97a5-0b815e4205e4.PNG">
- ---
+ 
+ ***
+ 
 <p align="center"><img src="https://user-images.githubusercontent.com/37486654/45630477-6b730080-baa1-11e8-841d-aad942e74f00.png">
 
 
